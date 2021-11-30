@@ -1,0 +1,10 @@
+git config --global user.name ankit2153
+git config --global user.email 
+git init
+git add .
+git commit -m "Intial commit"
+git remote add origin {ssh}
+ssh-keygen -t ed25519 -C "ankitkumarpandey2153@gmail.com"
+git push origin master
+
+
